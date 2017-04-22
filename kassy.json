@@ -1,0 +1,9 @@
+{
+    "name": "wechat",
+    "version": 1.0,
+    "startup": "wechat.js",
+    "type": "integration",
+    "config": [
+        [ "commandPrefix", "The default prefix for each command.", "/" ]
+    ]
+}

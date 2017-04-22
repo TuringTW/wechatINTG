@@ -1,0 +1,19 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "author": "TuringTW",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuringTW/wechatINTG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TuringTW/wechatINTG/issues"
+  },
+  "homepage": "https://github.com/TuringTW/wechatINTG",
+  "dependencies": {
+    "wechaty": "github:Chatie/wechaty", 
+    "qrcode-terminal": "github:gtanner/qrcode-terminal",
+    "decode-html": "github:intesso/decode-html"
+  }
+}
